@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Littleton Letter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c40fd29-cdfa-587e-a8db-2019fe2703ff
+DTSTAMP:20260606T133314
+DTSTART:20260613T173000
+DTEND:20260613T183000
+SUMMARY:Downtown Littleton Block Party & Little Jam
+LOCATION:Main Street\, Littleton 80120
+DESCRIPTION:The Downtown Littleton Block Party reclaims the streets with dazzling performances\, live music\, fiery spectacles\, and a fireworks finale.
+END:VEVENT
+END:VCALENDAR
