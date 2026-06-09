@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Littleton Letter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a589fbbd-0841-562a-a3d6-6b3a62a23c2a
+DTSTAMP:20260608T212806
+DTSTART:20260610T160000
+DTEND:20260610T170000
+SUMMARY:Meet Greet & Eat Events
+DESCRIPTION:Meet Greet & Eat events are a great opportunity to meet neighbors and greet city council and city staff
+END:VEVENT
+END:VCALENDAR
